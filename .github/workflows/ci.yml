@@ -4,6 +4,7 @@ on:
   push:
     branches:
     - main
+    - feat/nvext-1
   pull_request:
     branches:
     - main
